@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onyx12133
 - 👀 I’m interested in ... Minecraft Modding
-- 🌱 I’m currently learning ... How to code Jaca
+- 🌱 I’m currently learning ... How to code Java
 - 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me ... N/A
 
