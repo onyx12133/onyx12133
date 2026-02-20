@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @onyx12133
-- 👀 I’m interested in ... Minecraft Modding
-- 🌱 I’m currently learning ... How to code Java
-- 💞️ I’m looking to collaborate on ... N/A
-- 📫 How to reach me ... N/A
+oh boy here I go coding again
 
 <!---
 onyx12133/onyx12133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
